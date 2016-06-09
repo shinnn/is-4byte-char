@@ -1,0 +1,38 @@
+{
+  "name": "is-4byte-char",
+  "description": "Check if a given value is a character that costs 4 bytes in UTF-8",
+  "keywords": [
+    "byte",
+    "bytes",
+    "check",
+    "string",
+    "char",
+    "character",
+    "code",
+    "point",
+    "code-point"
+  ],
+  "main": "browser.js",
+  "moduleType": "globals",
+  "homepage": "https://github.com/shinnn/is-4byte-char",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/is-4byte-char.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "code-point": "^1.1.0",
+    "is-4byte-code-point": "^1.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "*.yml",
+    "coverage",
+    "node_modules"
+  ]
+}
