@@ -4,8 +4,8 @@
 [![Bower version](https://img.shields.io/bower/v/is-4byte-char.svg)](https://github.com/shinnn/is-4byte-char/releases)
 [![Build Status](https://travis-ci.org/shinnn/is-4byte-char.svg?branch=master)](https://travis-ci.org/shinnn/is-4byte-char)
 [![Coverage Status](https://img.shields.io/coveralls/shinnn/is-4byte-char.svg)](https://coveralls.io/github/shinnn/is-4byte-char?branch=master)
-[![Dependency Status](https://david-dm.org/shinnn/is-4byte-char.svg)](https://david-dm.org/shinnn/is-4byte-char)
-[![Dependency Status](https://david-dm.org/shinnn/is-4byte-char.svg)](https://david-dm.org/shinnn/is-4byte-char)
+[![dependencies Status](https://david-dm.org/shinnn/is-4byte-char/status.svg)](https://david-dm.org/shinnn/is-4byte-char)
+[![devDependencies Status](https://david-dm.org/shinnn/is-4byte-char/dev-status.svg)](https://david-dm.org/shinnn/is-4byte-char?type=dev)
 
 Check if a given value is a character that costs 4 bytes in [UTF-8](https://tools.ietf.org/html/rfc3629)
 
